@@ -112,7 +112,8 @@ Given a Bank customer, can we build a classifier which can determine whether the
 
 
 ## Dataset overview
-
+<a href='https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
+'>Dataset link</a>
 
 <a name="steps1"></a>
 ## Steps  
